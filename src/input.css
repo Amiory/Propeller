@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@200..800&display=swap");
+@font-face {
+  font-family: "Kalameh";
+  src: url("fonts/IRANYekanBlack.ttf");
+}
+@font-face {
+  font-family: "IR_Kelma";
+  src: url("fonts/KalamehWeb-ExtraBold.woff");
+}
+@font-face {
+  font-family: "Khand";
+  src: url("fonts/iranyekanwebregular.ttf");
+}
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@200..800&family=Khand:wght@300;400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
